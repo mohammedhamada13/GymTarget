@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects CV\\GymTarget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{376405D2-484F-4770-9118-88B1434BD45D}|GymTarget\\GymTarget.csproj|f:\\projects cv\\gymtarget\\gymtarget\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{376405D2-484F-4770-9118-88B1434BD45D}|GymTarget\\GymTarget.csproj|solutionrelative:gymtarget\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376405D2-484F-4770-9118-88B1434BD45D}|GymTarget\\GymTarget.csproj|f:\\projects cv\\gymtarget\\gymtarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376405D2-484F-4770-9118-88B1434BD45D}|GymTarget\\GymTarget.csproj|solutionrelative:gymtarget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376405D2-484F-4770-9118-88B1434BD45D}|GymTarget\\GymTarget.csproj|f:\\projects cv\\gymtarget\\gymtarget\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{376405D2-484F-4770-9118-88B1434BD45D}|GymTarget\\GymTarget.csproj|solutionrelative:gymtarget\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\Projects CV\\GymTarget\\GymTarget\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GymTarget\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "F:\\Projects CV\\GymTarget\\GymTarget\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "GymTarget\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T05:03:46.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects CV\\GymTarget\\GymTarget\\Program.cs",
+              "RelativeDocumentMoniker": "GymTarget\\Program.cs",
+              "ToolTip": "F:\\Projects CV\\GymTarget\\GymTarget\\Program.cs",
+              "RelativeToolTip": "GymTarget\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:49:41.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Projects CV\\GymTarget\\GymTarget\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GymTarget\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Projects CV\\GymTarget\\GymTarget\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GymTarget\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T04:46:02.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

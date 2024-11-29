@@ -1,0 +1,22 @@
+﻿@model Coaches
+
+<form>
+    <section class="py-5">
+        <div class="container px-4 px-lg-5 my-5">
+            <div class="row gx-4 gx-lg-5 align-items-center">
+                <input hidden asp-for="@Model.Id" />
+                <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src="~/@Model.Image" alt="..." width="600" height="500"></div>
+                <div class="col-md-6">
+                    <div class="small mb-1">@Model.Name</div>
+                    <h1 class="display-5 fw-bolder">@Model.PhoneNumber</h1>
+                    <h5 class="display-5 fw-bolder">@Model.Email</h5>
+                    <h5 class="display-5 fw-bolder">@Model.Address</h5>
+                    <div class="fs-5 mb-5">
+                        <span>$@Model.Gender</span>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </section>
+</form>

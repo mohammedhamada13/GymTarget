@@ -1,0 +1,72 @@
+﻿@model Trainees
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<div class="row">
+    <div class="col-md-8">
+        <form method="post" asp-action="Deletecoaches">
+            <input asp-for="Id" hidden />
+
+            <div class="border p-2 mt-4">
+                <h2 class="text-primary">View Delete</h2>
+                <hr />
+
+                <div asp-validation-summary="All"></div>
+
+                <div class="mb-2">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" disabled class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-2">
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" disabled class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+
+                </div>
+
+
+                <div class="form-group">
+                    <label asp-for="Address"></label>
+                    <input asp-for="Address" disabled class="form-control" />
+                    <span asp-validation-for="Address" class="text-danger"></span>
+
+                </div>
+
+
+                <div class="mb-2">
+                    <label asp-for="PhoneNumber"></label>
+                    <input asp-for="PhoneNumber" disabled class="form-control" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+                </div>
+
+                <div class="mb-1">
+                    <label asp-for="Gender"></label>
+                    <input asp-for="Gender" disabled class="form-control" />
+                    <span asp-validation-for="Gender" class="text-danger"></span>
+
+                </div>
+
+                <div class="mb-2">
+                    <br />
+                    <hr />
+
+                    <button type="submit" class="btn btn-primary" style="width:150px">Delete</button>
+                    <a asp-action="Index" asp-controller="Student" class="btn btn-secondary" style="width:150px">
+                        back to Student
+                    </a>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
